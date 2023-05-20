@@ -1,1 +1,3 @@
 credenciais.txt
+*.csv
+__pycache__/
